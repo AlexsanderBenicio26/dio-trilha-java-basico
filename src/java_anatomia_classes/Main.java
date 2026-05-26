@@ -10,6 +10,7 @@ public class Main {
 		String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
 		
 		System.out.println(nomeCompleto);
+		System.out.println("Olá GitHub");
 		
 	}
 	
